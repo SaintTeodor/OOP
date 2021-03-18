@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\GrandPrixTT\GrandPrixTT\bin\Debug\net5.0\GrandPrixTT.exe
+C:\Users\User\source\repos\GrandPrixTT\GrandPrixTT\bin\Debug\net5.0\GrandPrixTT.deps.json
+C:\Users\User\source\repos\GrandPrixTT\GrandPrixTT\bin\Debug\net5.0\GrandPrixTT.runtimeconfig.json
+C:\Users\User\source\repos\GrandPrixTT\GrandPrixTT\bin\Debug\net5.0\GrandPrixTT.runtimeconfig.dev.json
+C:\Users\User\source\repos\GrandPrixTT\GrandPrixTT\bin\Debug\net5.0\GrandPrixTT.dll
+C:\Users\User\source\repos\GrandPrixTT\GrandPrixTT\bin\Debug\net5.0\ref\GrandPrixTT.dll
+C:\Users\User\source\repos\GrandPrixTT\GrandPrixTT\bin\Debug\net5.0\GrandPrixTT.pdb
+C:\Users\User\source\repos\GrandPrixTT\GrandPrixTT\obj\Debug\net5.0\GrandPrixTT.csprojAssemblyReference.cache
+C:\Users\User\source\repos\GrandPrixTT\GrandPrixTT\obj\Debug\net5.0\GrandPrixTT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\GrandPrixTT\GrandPrixTT\obj\Debug\net5.0\GrandPrixTT.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\GrandPrixTT\GrandPrixTT\obj\Debug\net5.0\GrandPrixTT.AssemblyInfo.cs
+C:\Users\User\source\repos\GrandPrixTT\GrandPrixTT\obj\Debug\net5.0\GrandPrixTT.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\GrandPrixTT\GrandPrixTT\obj\Debug\net5.0\GrandPrixTT.dll
+C:\Users\User\source\repos\GrandPrixTT\GrandPrixTT\obj\Debug\net5.0\ref\GrandPrixTT.dll
+C:\Users\User\source\repos\GrandPrixTT\GrandPrixTT\obj\Debug\net5.0\GrandPrixTT.pdb
+C:\Users\User\source\repos\GrandPrixTT\GrandPrixTT\obj\Debug\net5.0\GrandPrixTT.genruntimeconfig.cache
